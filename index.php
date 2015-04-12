@@ -7,12 +7,12 @@
 <META name="keywords" content="Somalia, Conflict, Black Hawk Down, 1993 Battle of Mogadishu">
 <meta http-equiv="Content-Type" content="text/html; charset=iso-8859-1">
 
-<?php include("include/google-analytics.php"); ?>
+<?php include("../include/google-analytics.php"); ?>
 
 </head>
 <body>
 
-<?php include("include/google-ads.php"); ?>
+<?php include("../include/google-ads.php"); ?>
 
 <table width="1024" align="center" class="text">
 <tr>
@@ -45,17 +45,7 @@
 
 <center>
 <p><i>Somalia Information 2012 - <?print(date("Y"));?>.</i></p>
-<p>
-  <a href="http://validator.w3.org/check?uri=referer"><img
-      src="http://www.w3.org/Icons/valid-html401"
-      alt="Valid HTML 4.01 Transitional" height="31" width="88"></a>
-
-    <a href="http://jigsaw.w3.org/css-validator/check/referer">
-        <img style="border:0;width:88px;height:31px"
-            src="http://jigsaw.w3.org/css-validator/images/vcss"
-            alt="Valid CSS!">
-    </a>
-</p>
+<?php include("../include/w3-validator-logo.php"); ?>
 </center>
 
 </body>
