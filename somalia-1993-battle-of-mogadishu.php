@@ -1,11 +1,12 @@
-<!DOCTYPE html PUBLIC "-//W3C//DTD HTML 4.01 Transitional//EN" "http://www.w3.org/TR/html4/loose.dtd">
+<!DOCTYPE html>
 <html>
 <head>
 <title>Somalia 1993 Battle of Mogadishu</title>
 <LINK href="somalia.css" rel=stylesheet type="text/css">
 <META name="description" content="Somalia 1993 Battle of Mogadishu">
 <META name="keywords" content="Somalia, Black Hawk Down, 1993 Battle of Mogadishu">
-<meta http-equiv="Content-Type" content="text/html; charset=iso-8859-1">
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
 
 <?php include("../include/google-analytics.php"); ?>
 
@@ -14,12 +15,11 @@
 
 <?php include("../include/google-ads.php"); ?>
 
-<table width="1024" align="center" class="text">
-<tr>
-<td>
-
+<header>
 <h1>Somalia 1993 Battle of Mogadishu</h1>
+</header>
 
+<section>
 <p>
 The Battle of Mogadishu (also referred to as the Battle of the Black Sea) or for Somalis: the Day of the Rangers (Somali: Maalintii Rangers) was part of Operation Gothic Serpent and was fought on October 3 and 4, 1993, in Mogadishu, Somalia, between forces of the United States supported by UNOSOM II and Somali militia fighters loyal to the self-proclaimed president-to-be Mohamed Farrah Aidid who had support from armed civilian fighters. The battle is referred to as the First Battle of Mogadishu to distinguish it from the Second Battle of Mogadishu in 2006.
 </p>
@@ -75,7 +75,7 @@ At the Conference on National Reconciliation in Somalia, held on March 15, 1993,
 </p>
 
 <p>
-Aidid began to broadcast anti-UN propaganda on Radio Mogadishu after believing he was purposefully being marginalized by the UN in an attempt to &quot;rebuild Somalia&quot;. Lieutenant General Çevik Bir ordered the radio station shut down, in an attempt to quash the beginning of what could turn into a rebellion. Civilian spies throughout United Nations Operation Somalia II (UNOSOM II) headquarters likely led to the uncovering of the UN's plan. Aidid ordered SNA militia to attack a Pakistani force on 5 June 1993 that had been tasked with the inspection of an arms cache located at the radio station, possibly out of fear that this was a task force sent to shut down the broadcast. The result was 24 dead, and 57 wounded Pakistani troops, as well as 1 wounded Italian and 3 wounded American soldiers. On 6 June 1993, the United Nations Security Council (UNSC) passed Resolution 837, declaring total war on Aidid and his forces.
+Aidid began to broadcast anti-UN propaganda on Radio Mogadishu after believing he was purposefully being marginalized by the UN in an attempt to &quot;rebuild Somalia&quot;. Lieutenant General Cevik Bir ordered the radio station shut down, in an attempt to quash the beginning of what could turn into a rebellion. Civilian spies throughout United Nations Operation Somalia II (UNOSOM II) headquarters likely led to the uncovering of the UN's plan. Aidid ordered SNA militia to attack a Pakistani force on 5 June 1993 that had been tasked with the inspection of an arms cache located at the radio station, possibly out of fear that this was a task force sent to shut down the broadcast. The result was 24 dead, and 57 wounded Pakistani troops, as well as 1 wounded Italian and 3 wounded American soldiers. On 6 June 1993, the United Nations Security Council (UNSC) passed Resolution 837, declaring total war on Aidid and his forces.
 </p>
 
 <h2>Attack on safe house</h2>
@@ -103,13 +103,12 @@ On 22 August, Task Force Ranger was deployed to Somalia under the command of Maj
 </p>
 
 <p>
-The force consisted of:
-
-    B Company, 3rd Battalion, 75th Ranger Regiment
-    C Squadron, 1st Special Forces Operational Detachment-Delta (1st SFOD-D)
-    A deployment package of 16 helicopters and personnel from the 160th Special Operations Aviation Regiment (160th SOAR), which included MH-60 Black Hawks and AH/MH-6 Little Birds.
-    Navy SEALs from the Naval Special Warfare Development Group (DEVGRU)
-    Air Force Pararescuemen and Combat Controllers from the 24th Special Tactics Squadron.
+The force consisted of:<br>
+B Company, 3rd Battalion, 75th Ranger Regiment<br>
+C Squadron, 1st Special Forces Operational Detachment-Delta (1st SFOD-D)<br>
+A deployment package of 16 helicopters and personnel from the 160th Special Operations Aviation Regiment (160th SOAR), which included MH-60 Black Hawks and AH/MH-6 Little Birds.<br>
+Navy SEALs from the Naval Special Warfare Development Group (DEVGRU)<br>
+Air Force Pararescuemen and Combat Controllers from the 24th Special Tactics Squadron.
 </p>
 
 <h2>Engagement</h2>
@@ -181,25 +180,25 @@ Two weeks after the Battle of Mogadishu, General Garrison officially accepted re
 <p>
 Units involved in the battle:
 
-    Task Force Ranger, including :
-        C Squadron, 1st Special Forces Operational Detachment-Delta (1st SFOD-D) aka &quot;Delta Force&quot;
-        Bravo Company, 3rd Ranger Battalion, 75th Ranger Regiment
-        1st Battalion, 160th Special Operations Aviation Regiment (Airborne) (The Night Stalkers) with MH-6J and AH-6 &quot;Little Birds&quot; and MH-60 A/L Black Hawks
-        Combat Controllers and Pararescuemen from the USAF 24th Special Tactics Squadron
-        Naval Special Warfare Development Group (Five Navy SEAL operators)
-        CVN-72 USS Abraham Lincoln & Carrier Air Wing 11
-    Task Force-10th Mountain Division, including:
-        1st Battalion, 22nd Infantry Regiment
-        2nd Battalion, 14th Infantry Regiment,
-        1st platoon, C Company, 1st Battalion, 87th Infantry Regiment
-        15th FF Battalion, of the Frontier Force Regiment, Pakistan Army
-        19 Lancers of the Pakistan Army
-        Included with the TF was the 977 MP Co.
+Task Force Ranger, including :
+C Squadron, 1st Special Forces Operational Detachment-Delta (1st SFOD-D) aka &quot;Delta Force&quot;
+Bravo Company, 3rd Ranger Battalion, 75th Ranger Regiment
+1st Battalion, 160th Special Operations Aviation Regiment (Airborne) (The Night Stalkers) with MH-6J and AH-6 &quot;Little Birds&quot; and MH-60 A/L Black Hawks
+Combat Controllers and Pararescuemen from the USAF 24th Special Tactics Squadron
+Naval Special Warfare Development Group (Five Navy SEAL operators)
+CVN-72 USS Abraham Lincoln & Carrier Air Wing 11
+Task Force-10th Mountain Division, including:
+1st Battalion, 22nd Infantry Regiment
+2nd Battalion, 14th Infantry Regiment,
+1st platoon, C Company, 1st Battalion, 87th Infantry Regiment
+15th FF Battalion, of the Frontier Force Regiment, Pakistan Army
+19 Lancers of the Pakistan Army
+Included with the TF was the 977 MP Co.
 
-    United Nations Forces
-        19th Battalion, Royal Malay Regiment of the Malaysian Army
-        11th Regiment, Grup Gerak Khas (few GGK operators during rescue the Super 6-1 crews)
-        10th Battalion Baloch Regiment of the Pakistan Army, (less two companies who were held in reserve)
+United Nations Forces
+19th Battalion, Royal Malay Regiment of the Malaysian Army
+11th Regiment, Grup Gerak Khas (few GGK operators during rescue the Super 6-1 crews)
+10th Battalion Baloch Regiment of the Pakistan Army, (less two companies who were held in reserve)
 </p>
 
 <b>Somali Militias</b>
@@ -305,15 +304,13 @@ Howard Wasdin's SEAL Team Six (2011) includes a 90 page section about his time i
 <p>
 Bowden's book was adapted into the 2001 film Black Hawk Down, produced by Jerry Bruckheimer and directed by Ridley Scott. Like the book, the film describes events surrounding the operation, but there are differences between the book and the movie, such as Rangers marking targets at night by throwing strobe lights at them, when in reality the Rangers marked their own positions and close air support targeted everything else.
 </p>
+</section>
 
+<footer>
 <a href="index.php">Back to Somalia index</a>
-</tr>
-</table>
-
-<center>
 <p><i>Somalia Information 2012 - <?print(date("Y"));?>.</i></p>
 <?php include("../include/w3-validator-logo.php"); ?>
-</center>
+</footer>
 
 </body>
 </html>

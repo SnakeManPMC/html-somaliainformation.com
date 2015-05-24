@@ -1,11 +1,12 @@
-<!DOCTYPE html PUBLIC "-//W3C//DTD HTML 4.01 Transitional//EN" "http://www.w3.org/TR/html4/loose.dtd">
+<!DOCTYPE html>
 <html>
 <head>
 <title>Somalia Operation Restore Hope</title>
 <LINK href="somalia.css" rel=stylesheet type="text/css">
 <META name="description" content="Somalia Operation Restore Hope">
 <META name="keywords" content="Somalia, Operation Restore Hope">
-<meta http-equiv="Content-Type" content="text/html; charset=iso-8859-1">
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
 
 <?php include("../include/google-analytics.php"); ?>
 
@@ -14,12 +15,12 @@
 
 <?php include("../include/google-ads.php"); ?>
 
-<table width="1024" align="center" class="text">
-<tr>
-<td>
-
+<header>
 <h1>Somalia Operation Restore Hope</h1>
+</header>
 
+<section>
+<h2>Operation Restore Hope</h2>
 <p>
 Expanded peacekeeping in Somalia began after the failure of UNOSOM I accompanied by the specter of 500,000 Somalis dead from famine by the fall of 1992 and hundreds of thousands more in danger of dying. Clan violence in Somalia interfered with international famine relief efforts, and President Bush sent American troops to protect relief workers in a new operation called Restore Hope. The US-led coalition approved by the Security Council in December 1992 had a mandate of protecting humanitarian operations and creating a secure environment for eventual political reconciliation. At the same time, it had the authority to use all necessary means, including military force. A joint and multinational operation, Restore Hope--called UNITAF (unified task force)--was a US-led, UN-sanctioned operation that included protection of humanitarian assistance and other peace-enforcement operations.
 </p>
@@ -71,15 +72,13 @@ By early 1993, sector &quot;coordination centers&quot; had been established in e
 <p>
 On 4 May 1993 the UN-led operation in Somalia (UNOSOM II) assumed responsibility for operations.
 </p>
+</section>
 
+<footer>
 <a href="index.php">Back to Somalia index</a>
-</tr>
-</table>
-
-<center>
 <p><i>Somalia Information 2012 - <?print(date("Y"));?>.</i></p>
 <?php include("../include/w3-validator-logo.php"); ?>
-</center>
+</footer>
 
 </body>
 </html>

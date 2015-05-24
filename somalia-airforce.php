@@ -1,11 +1,12 @@
-<!DOCTYPE html PUBLIC "-//W3C//DTD HTML 4.01 Transitional//EN" "http://www.w3.org/TR/html4/loose.dtd">
+<!DOCTYPE html>
 <html>
 <head>
 <title>Somalia Airforce</title>
 <LINK href="somalia.css" rel=stylesheet type="text/css">
 <META name="description" content="Somalia Airforce">
 <META name="keywords" content="Somalia, Airforce, Aircraft">
-<meta http-equiv="Content-Type" content="text/html; charset=iso-8859-1">
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
 
 <?php include("../include/google-analytics.php"); ?>
 
@@ -14,12 +15,12 @@
 
 <?php include("../include/google-ads.php"); ?>
 
-<table width="1024" align="center" class="text">
-<tr>
-<td>
-
+<header>
 <h1>Somalia Airforce</h1>
+</header>
 
+<section>
+<h2>Airforce</h2>
 <p>
 The Somali Air Force (SAF), initially known as the Somali Aeronautical Corps, operated most of its aircraft from bases near Mogadishu and Hargeysa. Its mission was to support ground forces.
 </p>
@@ -35,15 +36,13 @@ In 1990 the SAF was organized into three fighter ground attack squadrons equippe
 <p>
 None of the squadrons have been operational for some time.
 </p>
+</section>
 
+<footer>
 <a href="index.php">Back to Somalia index</a>
-</tr>
-</table>
-
-<center>
 <p><i>Somalia Information 2012 - <?print(date("Y"));?>.</i></p>
 <?php include("../include/w3-validator-logo.php"); ?>
-</center>
+</footer>
 
 </body>
 </html>

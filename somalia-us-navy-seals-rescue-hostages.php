@@ -1,11 +1,12 @@
-<!DOCTYPE html PUBLIC "-//W3C//DTD HTML 4.01 Transitional//EN" "http://www.w3.org/TR/html4/loose.dtd">
+<!DOCTYPE html>
 <html>
 <head>
 <title>Somalia US Navy SEALs Rescue Two Hostages</title>
 <LINK href="somalia.css" rel=stylesheet type="text/css">
 <META name="description" content="Somalia US Navy SEALs Rescue Two Hostages Jan 25th, 2012.">
 <META name="keywords" content="Somalia, US Navy SEALs, Rescue, Hostages">
-<meta http-equiv="Content-Type" content="text/html; charset=iso-8859-1">
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
 
 <?php include("../include/google-analytics.php"); ?>
 
@@ -14,12 +15,12 @@
 
 <?php include("../include/google-ads.php"); ?>
 
-<table width="1024" align="center" class="text">
-<tr>
-<td>
-
+<header>
 <h1>Somalia US Navy SEALs Rescue Two Hostages - Jan 25th, 2012.</h1>
+</header>
 
+<section>
+<h2>Rescuing the Hostages</h2>
 <p>
 <b>(Reuters)</b> - Elite U.S. Navy SEALs swooped into Somalia on Wednesday and rescued two hostage aid workers after killing their nine kidnappers, a rare and daring raid in the Horn of Africa nation to free foreign captives.
 </p>
@@ -28,7 +29,7 @@
 American Jessica Buchanan, 32, and Poul Hagen Thisted, 60, of Denmark, humanitarian aid workers for a Danish demining group, were rescued three months after they were kidnapped on October 25 in the town of Galkayo in the semi-autonomous Galmudug region of the Horn of Africa country.
 </p>
 
-<img src="images/Somalia-Galkayo-Map.gif" width="304" height="171" border="0" alt="Somalia Galkayo Map">
+<img src="images/Somalia-Galkayo-Map.gif" width="304" height="171" alt="Somalia Galkayo Map">
 <br><br>
 
 <p>
@@ -352,15 +353,13 @@ The aid workers were part of the Danish Refugee Council's de-mining unit, which 
 <p>
 Buchanan has been employed as a regional education adviser with the mine clearance unit of DRC since May; Thisted, a community safety manager with the de-mining unit, has been working in Somaliland and Somalia since June 2009.
 </p>
+</section>
 
+<footer>
 <a href="index.php">Back to Somalia index</a>
-</tr>
-</table>
-
-<center>
 <p><i>Somalia Information 2012 - <?print(date("Y"));?>.</i></p>
 <?php include("../include/w3-validator-logo.php"); ?>
-</center>
+</footer>
 
 </body>
 </html>

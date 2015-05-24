@@ -1,11 +1,12 @@
-<!DOCTYPE html PUBLIC "-//W3C//DTD HTML 4.01 Transitional//EN" "http://www.w3.org/TR/html4/loose.dtd">
+<!DOCTYPE html>
 <html>
 <head>
 <title>Somalia Navy</title>
 <LINK href="somalia.css" rel=stylesheet type="text/css">
 <META name="description" content="Somalia Navy">
 <META name="keywords" content="Somalia, Navy">
-<meta http-equiv="Content-Type" content="text/html; charset=iso-8859-1">
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
 
 <?php include("../include/google-analytics.php"); ?>
 
@@ -14,12 +15,12 @@
 
 <?php include("../include/google-ads.php"); ?>
 
-<table width="1024" align="center" class="text">
-<tr>
-<td>
-
+<header>
 <h1>Somalia Navy</h1>
+</header>
 
+<section>
+<h2>Navy</h2>
 <p>
 In 1965 the Soviet Union helped Somalia establish a navy. As part of its mission to help SNA forces maintain coastal security, the navy maintained bases at Berbera, Mogadishu, and Chisimayu, and a radar site at Merca.
 </p>
@@ -31,15 +32,13 @@ In 1990 the naval inventory included two Soviet Osa-II missile-armed fast attack
 <p>
 The navy has not been operational since 1991.
 </p>
+</section>
 
+<footer>
 <a href="index.php">Back to Somalia index</a>
-</tr>
-</table>
-
-<center>
 <p><i>Somalia Information 2012 - <?print(date("Y"));?>.</i></p>
 <?php include("../include/w3-validator-logo.php"); ?>
-</center>
+</footer>
 
 </body>
 </html>

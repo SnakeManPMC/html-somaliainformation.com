@@ -1,11 +1,12 @@
-<!DOCTYPE html PUBLIC "-//W3C//DTD HTML 4.01 Transitional//EN" "http://www.w3.org/TR/html4/loose.dtd">
+<!DOCTYPE html>
 <html>
 <head>
 <title>Somalia Militia</title>
 <LINK href="somalia.css" rel=stylesheet type="text/css">
 <META name="description" content="Somalia Militia">
 <META name="keywords" content="Somalia, Militia">
-<meta http-equiv="Content-Type" content="text/html; charset=iso-8859-1">
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
 
 <?php include("../include/google-analytics.php"); ?>
 
@@ -14,12 +15,12 @@
 
 <?php include("../include/google-ads.php"); ?>
 
-<table width="1024" align="center" class="text">
-<tr>
-<td>
-
+<header>
 <h1>Somalia Militia</h1>
+</header>
 
+<section>
+<h2>Militia Forces</h2>
 <p>
 As of January 1991, Somali National Army (SNA) and all related military and security forces disbanded; an indeterminate number of elements reconstituted as clan militias and irregular regional forces.
 </p>
@@ -51,15 +52,13 @@ Beginning in the early 1980s, many Somali officers started attending one of two 
 <p>
 Paramilitary forces, which reported to the president via the minister of state, supplemented the SNA. These included a 1,500- man elite border guard; the 20,000-man People's Militia; and the 8,000-man Somali Police Force (SPF), which had an air unit based in Mogadishu consisting of two Dornier Do-28D2 aircraft, neither of which was believed to be operational in early 1992. The Somali Police Force, People's Militia, and National Security Service disbanded as of January 1991. 
 </p>
+</section>
 
+<footer>
 <a href="index.php">Back to Somalia index</a>
-</tr>
-</table>
-
-<center>
 <p><i>Somalia Information 2012 - <?print(date("Y"));?>.</i></p>
 <?php include("../include/w3-validator-logo.php"); ?>
-</center>
+</footer>
 
 </body>
 </html>

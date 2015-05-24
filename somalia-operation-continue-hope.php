@@ -1,11 +1,12 @@
-<!DOCTYPE html PUBLIC "-//W3C//DTD HTML 4.01 Transitional//EN" "http://www.w3.org/TR/html4/loose.dtd">
+<!DOCTYPE html>
 <html>
 <head>
 <title>Somalia Operation Continue Hope</title>
 <LINK href="somalia.css" rel=stylesheet type="text/css">
 <META name="description" content="Somalia Operation Continue Hope">
 <META name="keywords" content="Somalia, Operation Continue Hope">
-<meta http-equiv="Content-Type" content="text/html; charset=iso-8859-1">
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
 
 <?php include("../include/google-analytics.php"); ?>
 
@@ -14,12 +15,12 @@
 
 <?php include("../include/google-ads.php"); ?>
 
-<table width="1024" align="center" class="text">
-<tr>
-<td>
-
+<header>
 <h1>Somalia Operation Continue Hope</h1>
+</header>
 
+<section>
+<h2>Operation Continue Hope</h2>
 <p>
 On 4 May 1993 the UN Operation in Somalia (UNOSOM II) assumed responsibility for operations, but the transition was badly managed. Basic U.N. deficiencies in planning, C3I, and political acumen were compounded by an expanded and intrusive mandate; greatly diminished military capabilities; more aggressive Somali opposition; uncertain support from the United States; differences within the coalition; and uncertainty by the Security Council, the Secretariat, and others.
 </p>
@@ -39,15 +40,13 @@ A clash on 3-4 October 1993 left eighteen U.S. personnel dead and seventy-eight 
 <p>
 The killing of Army Rangers in Somalia provoked a resurgence of a debate that began before the Gulf War: when is it appropriate to use military force -- and, more to the point, can you justify using the military in regions in which Americans either do not see their interests at stake or are willing to help only so long as the costs remain very low? Somalia drove home the reality that the Gulf War experience could not serve as a model for other situations where the diplomatic lineup was more confused, the stakes less clear, and the difference between good guys and bad guys less simple to discern. It was also an early indication of the coming debate on the international community's role in internal strife. 
 </p>
+</section>
 
+<footer>
 <a href="index.php">Back to Somalia index</a>
-</tr>
-</table>
-
-<center>
 <p><i>Somalia Information 2012 - <?print(date("Y"));?>.</i></p>
 <?php include("../include/w3-validator-logo.php"); ?>
-</center>
+</footer>
 
 </body>
 </html>
