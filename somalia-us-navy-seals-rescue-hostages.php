@@ -13,9 +13,8 @@
 </head>
 <body>
 
-<?php include("../include/google-ads.php"); ?>
-
 <header>
+<?php include("../include/google-ads.php"); ?>
 <h1>Somalia US Navy SEALs Rescue Two Hostages - Jan 25th, 2012.</h1>
 </header>
 

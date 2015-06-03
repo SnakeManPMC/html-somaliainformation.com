@@ -13,16 +13,15 @@
 </head>
 <body>
 
-<?php include("../include/google-ads.php"); ?>
-
 <header>
+<?php include("../include/google-ads.php"); ?>
 <h1><b>Somalia Information</b></h1>
 </header>
 
 <section>
 <h2>Welcome to Somalia Information portal.</h2>
 
-<?php include("menu.php"); ?>
+<?php include("_menu.php"); ?>
 
 <a href="somalia-1993-battle-of-mogadishu.php">1993 Battle of Mogadishu</a>: <a href="somalia-olympic-hotel.php">Olympic Hotel</a>, <a href="somalia-target-building.php">Target Building</a>
 <br><br>

@@ -13,9 +13,8 @@
 </head>
 <body>
 
-<?php include("../include/google-ads.php"); ?>
-
 <header>
+<?php include("../include/google-ads.php"); ?>
 <h1>Somalia Operation Restore Hope</h1>
 </header>
 

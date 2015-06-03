@@ -13,9 +13,8 @@
 </head>
 <body>
 
-<?php include("../include/google-ads.php"); ?>
-
 <header>
+<?php include("../include/google-ads.php"); ?>
 <h1>Somalia 1993 Battle of Mogadishu</h1>
 </header>
 

@@ -13,9 +13,8 @@
 </head>
 <body>
 
-<?php include("../include/google-ads.php"); ?>
-
 <header>
+<?php include("../include/google-ads.php"); ?>
 <h1>Somalia Target Building</h1>
 </header>
 
@@ -35,7 +34,7 @@ October 3rd 1993 operation (also known now as &quot;1993 Battle For Mogadishu&qu
 <br><br>
 
 <p>
-Target building can be seen shortly in <a href="http://www.youtube.com/watch?v=SZ_g9-sPvSw">The real Black Hawk Down - Holidays in the Danger Zone - Places that don't exist - BBC</a> video at 1min 38sec part.
+Target building can be seen shortly in <a href="https://youtu.be/SZ_g9-sPvSw?t=98">The real Black Hawk Down - Holidays in the Danger Zone - Places that don't exist - BBC</a> video at 1min 38sec part, but good to watch completely.
 </p>
 </section>
 
