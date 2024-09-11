@@ -14,11 +14,14 @@
 <body>
 
 <header>
-<?php include("../include/google-ads.php"); ?>
+<?php include("/var/www/include/ads.php"); ?>
+<?php include("/var/www/include/header-start.php"); ?>
 <h1>Somalia 1993 Battle of Mogadishu</h1>
+<?php include("/var/www/include/header-end.php"); ?>
 </header>
 
 <section>
+<?php include("/var/www/include/section-start.php"); ?>
 <p>
 The Battle of Mogadishu (also referred to as the Battle of the Black Sea) or for Somalis: the Day of the Rangers (Somali: Maalintii Rangers) was part of Operation Gothic Serpent and was fought on October 3 and 4, 1993, in Mogadishu, Somalia, between forces of the United States supported by UNOSOM II and Somali militia fighters loyal to the self-proclaimed president-to-be Mohamed Farrah Aidid who had support from armed civilian fighters. The battle is referred to as the First Battle of Mogadishu to distinguish it from the Second Battle of Mogadishu in 2006.
 </p>
@@ -303,12 +306,17 @@ Howard Wasdin's SEAL Team Six (2011) includes a 90 page section about his time i
 <p>
 Bowden's book was adapted into the 2001 film Black Hawk Down, produced by Jerry Bruckheimer and directed by Ridley Scott. Like the book, the film describes events surrounding the operation, but there are differences between the book and the movie, such as Rangers marking targets at night by throwing strobe lights at them, when in reality the Rangers marked their own positions and close air support targeted everything else.
 </p>
+
+<?php include("/var/www/include/section-end.php"); ?>
 </section>
 
 <footer>
+<?php include("/var/www/include/footer-start.php"); ?>
 <a href="index.php">Back to Somalia index</a>
 <p><i>Somalia Information 2012 - <?print(date("Y"));?>.</i></p>
-<?php include("../include/w3-validator-logo.php"); ?>
+<?php include("/var/www/include/footer-end.php"); ?>
+<?php include("/var/www/include/support.php"); ?>
+<?php include("/var/www/include/w3-validator-logo.php"); ?>
 </footer>
 
 </body>

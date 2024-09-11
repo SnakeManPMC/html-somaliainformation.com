@@ -14,11 +14,14 @@
 <body>
 
 <header>
-<?php include("../include/google-ads.php"); ?>
+<?php include("/var/www/include/ads.php"); ?>
+<?php include("/var/www/include/header-start.php"); ?>
 <h1>Somalia Airforce</h1>
+<?php include("/var/www/include/header-end.php"); ?>
 </header>
 
 <section>
+<?php include("/var/www/include/section-start.php"); ?>
 <h2>Airforce</h2>
 <p>
 The Somali Air Force (SAF), initially known as the Somali Aeronautical Corps, operated most of its aircraft from bases near Mogadishu and Hargeysa. Its mission was to support ground forces.
@@ -35,12 +38,17 @@ In 1990 the SAF was organized into three fighter ground attack squadrons equippe
 <p>
 None of the squadrons have been operational for some time.
 </p>
+
+<?php include("/var/www/include/section-end.php"); ?>
 </section>
 
 <footer>
+<?php include("/var/www/include/footer-start.php"); ?>
 <a href="index.php">Back to Somalia index</a>
 <p><i>Somalia Information 2012 - <?print(date("Y"));?>.</i></p>
-<?php include("../include/w3-validator-logo.php"); ?>
+<?php include("/var/www/include/footer-end.php"); ?>
+<?php include("/var/www/include/support.php"); ?>
+<?php include("/var/www/include/w3-validator-logo.php"); ?>
 </footer>
 
 </body>

@@ -14,11 +14,14 @@
 <body>
 
 <header>
-<?php include("../include/google-ads.php"); ?>
+<?php include("/var/www/include/ads.php"); ?>
+<?php include("/var/www/include/header-start.php"); ?>
 <h1>Somalia US Navy SEALs Rescue Two Hostages - Jan 25th, 2012.</h1>
+<?php include("/var/www/include/header-end.php"); ?>
 </header>
 
 <section>
+<?php include("/var/www/include/section-start.php"); ?>
 <h2>Rescuing the Hostages</h2>
 <p>
 <b>(Reuters)</b> - Elite U.S. Navy SEALs swooped into Somalia on Wednesday and rescued two hostage aid workers after killing their nine kidnappers, a rare and daring raid in the Horn of Africa nation to free foreign captives.
@@ -352,12 +355,17 @@ The aid workers were part of the Danish Refugee Council's de-mining unit, which 
 <p>
 Buchanan has been employed as a regional education adviser with the mine clearance unit of DRC since May; Thisted, a community safety manager with the de-mining unit, has been working in Somaliland and Somalia since June 2009.
 </p>
+
+<?php include("/var/www/include/section-end.php"); ?>
 </section>
 
 <footer>
+<?php include("/var/www/include/footer-start.php"); ?>
 <a href="index.php">Back to Somalia index</a>
 <p><i>Somalia Information 2012 - <?print(date("Y"));?>.</i></p>
-<?php include("../include/w3-validator-logo.php"); ?>
+<?php include("/var/www/include/footer-end.php"); ?>
+<?php include("/var/www/include/support.php"); ?>
+<?php include("/var/www/include/w3-validator-logo.php"); ?>
 </footer>
 
 </body>

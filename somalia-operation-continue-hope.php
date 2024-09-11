@@ -14,11 +14,14 @@
 <body>
 
 <header>
-<?php include("../include/google-ads.php"); ?>
+<?php include("/var/www/include/ads.php"); ?>
+<?php include("/var/www/include/header-start.php"); ?>
 <h1>Somalia Operation Continue Hope</h1>
+<?php include("/var/www/include/header-end.php"); ?>
 </header>
 
 <section>
+<?php include("/var/www/include/section-start.php"); ?>
 <h2>Operation Continue Hope</h2>
 <p>
 On 4 May 1993 the UN Operation in Somalia (UNOSOM II) assumed responsibility for operations, but the transition was badly managed. Basic U.N. deficiencies in planning, C3I, and political acumen were compounded by an expanded and intrusive mandate; greatly diminished military capabilities; more aggressive Somali opposition; uncertain support from the United States; differences within the coalition; and uncertainty by the Security Council, the Secretariat, and others.
@@ -39,12 +42,17 @@ A clash on 3-4 October 1993 left eighteen U.S. personnel dead and seventy-eight 
 <p>
 The killing of Army Rangers in Somalia provoked a resurgence of a debate that began before the Gulf War: when is it appropriate to use military force -- and, more to the point, can you justify using the military in regions in which Americans either do not see their interests at stake or are willing to help only so long as the costs remain very low? Somalia drove home the reality that the Gulf War experience could not serve as a model for other situations where the diplomatic lineup was more confused, the stakes less clear, and the difference between good guys and bad guys less simple to discern. It was also an early indication of the coming debate on the international community's role in internal strife. 
 </p>
+
+<?php include("/var/www/include/section-end.php"); ?>
 </section>
 
 <footer>
+<?php include("/var/www/include/footer-start.php"); ?>
 <a href="index.php">Back to Somalia index</a>
 <p><i>Somalia Information 2012 - <?print(date("Y"));?>.</i></p>
-<?php include("../include/w3-validator-logo.php"); ?>
+<?php include("/var/www/include/footer-end.php"); ?>
+<?php include("/var/www/include/support.php"); ?>
+<?php include("/var/www/include/w3-validator-logo.php"); ?>
 </footer>
 
 </body>

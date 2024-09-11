@@ -14,11 +14,14 @@
 <body>
 
 <header>
-<?php include("../include/google-ads.php"); ?>
+<?php include("/var/www/include/ads.php"); ?>
+<?php include("/var/www/include/header-start.php"); ?>
 <h1>Somalia Operation Restore Hope</h1>
+<?php include("/var/www/include/header-end.php"); ?>
 </header>
 
 <section>
+<?php include("/var/www/include/section-start.php"); ?>
 <h2>Operation Restore Hope</h2>
 <p>
 Expanded peacekeeping in Somalia began after the failure of UNOSOM I accompanied by the specter of 500,000 Somalis dead from famine by the fall of 1992 and hundreds of thousands more in danger of dying. Clan violence in Somalia interfered with international famine relief efforts, and President Bush sent American troops to protect relief workers in a new operation called Restore Hope. The US-led coalition approved by the Security Council in December 1992 had a mandate of protecting humanitarian operations and creating a secure environment for eventual political reconciliation. At the same time, it had the authority to use all necessary means, including military force. A joint and multinational operation, Restore Hope--called UNITAF (unified task force)--was a US-led, UN-sanctioned operation that included protection of humanitarian assistance and other peace-enforcement operations.
@@ -71,12 +74,17 @@ By early 1993, sector &quot;coordination centers&quot; had been established in e
 <p>
 On 4 May 1993 the UN-led operation in Somalia (UNOSOM II) assumed responsibility for operations.
 </p>
+
+<?php include("/var/www/include/section-end.php"); ?>
 </section>
 
 <footer>
+<?php include("/var/www/include/footer-start.php"); ?>
 <a href="index.php">Back to Somalia index</a>
 <p><i>Somalia Information 2012 - <?print(date("Y"));?>.</i></p>
-<?php include("../include/w3-validator-logo.php"); ?>
+<?php include("/var/www/include/footer-end.php"); ?>
+<?php include("/var/www/include/support.php"); ?>
+<?php include("/var/www/include/w3-validator-logo.php"); ?>
 </footer>
 
 </body>
