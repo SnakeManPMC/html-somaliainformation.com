@@ -1,3 +1,3 @@
 user-agent: *
 Disallow: 
-Sitemap: http://tactical.nekromantix.com/somalia/sitemap.xml
+Sitemap: https://somalia.pmctactical.org/sitemap.xml
